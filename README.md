@@ -1,0 +1,2 @@
+# pingconnect-privacy
+Privacy Policy
